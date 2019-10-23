@@ -38,3 +38,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [El Nino Dataset (1999)](https://archive.ics.uci.edu/ml/datasets/El+Nino): The data set contains oceanographic and surface meteorological readings taken from a series of buoys positioned throughout the equatorial Pacific
 
 * [World Bank Climate Change Data](https://www.kaggle.com/theworldbank/world-bank-climate-change-data): This is a dataset hosted by the World Bank. It is updated daily and maintained using the World Bank's APIs and Kaggle's API.
+
+* [Global Climate Summaries](https://catalog.data.gov/dataset/global-climate-station-summaries): This dataset contains hourly global climate data summaries collected by NCDC and the U.S. Navy.
