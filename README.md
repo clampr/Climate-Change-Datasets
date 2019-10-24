@@ -40,3 +40,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [World Bank Climate Change Data](https://www.kaggle.com/theworldbank/world-bank-climate-change-data): This is a dataset hosted by the World Bank. It is updated daily and maintained using the World Bank's APIs and Kaggle's API.
 
 * [Global Climate Summaries](https://catalog.data.gov/dataset/global-climate-station-summaries): This dataset contains hourly global climate data summaries collected by NCDC and the U.S. Navy.
+
+* [Climate Change Dataset : World Bank](https://datacatalog.worldbank.org/dataset/climate-change-data ) Data from World Development Indicators and Climate Change Knowledge Portal on climate systems, exposure to climate impacts, resilience, greenhouse gas emissions, and energy use.
