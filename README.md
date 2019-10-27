@@ -44,3 +44,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [Climate Change Dataset : World Bank](https://datacatalog.worldbank.org/dataset/climate-change-data ) Data from World Development Indicators and Climate Change Knowledge Portal on climate systems, exposure to climate impacts, resilience, greenhouse gas emissions, and energy use.
 
 * [Estimation of greenhouse gas (GHG) emissions from land cover changes in the Legal Amazon](http://dados.gov.br/dataset/inpe-em) This dataset contains annual emissions estimates for the Brazil Legal Amazon.
+
+* [European Climate Assessment & Dataset](https://www.ecad.eu): Contains series of daily observations at meteorological stations throughout Europe and the Mediterranean.
