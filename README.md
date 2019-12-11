@@ -35,6 +35,7 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 
 * [9 global warming datasets](https://data.world/datasets/global-warming): There are 9 global warming datasets available on data.world.
 
+* []
 * [El Nino Dataset (1999)](https://archive.ics.uci.edu/ml/datasets/El+Nino): The data set contains oceanographic and surface meteorological readings taken from a series of buoys positioned throughout the equatorial Pacific
 
 * [World Bank Climate Change Data](https://www.kaggle.com/theworldbank/world-bank-climate-change-data): This is a dataset hosted by the World Bank. It is updated daily and maintained using the World Bank's APIs and Kaggle's API.
@@ -46,3 +47,12 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [Estimation of greenhouse gas (GHG) emissions from land cover changes in the Legal Amazon](http://dados.gov.br/dataset/inpe-em) This dataset contains annual emissions estimates for the Brazil Legal Amazon.
 
 * [European Climate Assessment & Dataset](https://www.ecad.eu): Contains series of daily observations at meteorological stations throughout Europe and the Mediterranean.
+
+* [NASA GISS Global Temperature] (https://data.world/agriculture/nasa-giss-global-temperature) This dataset is Goddard Institute for Space Studies Surface Temperature Analysis -- Land-Ocean Temperature Index (LOTI)
+
+* [Global Climate Change Data] (https://data.world/data-society/global-climate-change-data) This dataset is about Global Climate Change Data from 1750－2015
+
+* [Recommended Fishing Lakes and Ponds] (https://data.world/data-ny-gov/mw8j-wduf)  This data displays the locations of top lakes and ponds for fishing in New York State
+
+* [Recommended Fishing Rivers And Streams] (https://data.world/data-ny-gov/jcxg-7gnm)  This data displays the access locations of rivers and streams for fishing in New York State
+
