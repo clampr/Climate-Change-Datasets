@@ -56,6 +56,6 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 
 * [Recommended Fishing Rivers And Streams](https://data.world/data-ny-gov/jcxg-7gnm)  This data displays the access locations of rivers and streams for fishing in New York State
 
-* [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/)
+* [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
