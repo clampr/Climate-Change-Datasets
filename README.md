@@ -59,3 +59,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
+
+* [Latvian Climate Change Analysis Tool](https://www4.meteo.lv/klimatariks/en/) The Climate Change Analysis Tool allows you to explore the current and the projected future climate in Latvia in the form of maps and graphs. Apart from viewing online, the data can also be downloaded.
