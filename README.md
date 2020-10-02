@@ -59,3 +59,4 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
+* [CAIT Indonesia Climate Data Explorer (PINDAI)](https://datasets.wri.org/dataset/cait-indonesia-climate-data-explorer-pindai-data) The Indonesia Climate Data Explorer (PINDAI), an open online platform featuring Indonesian national and provincial level climate policy information and data, including historical and projected emissions, climate actions and development plans.
