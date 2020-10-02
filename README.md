@@ -59,3 +59,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
+
+* [Temperatures of India](https://www.kaggle.com/venky73/temperatures-of-india) This dataset consists of temperatures of INDIA from 1901 - 2017. The temperature values are recorded in CELCIUS.
