@@ -59,3 +59,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
+
+* [Green Web Foundation Dataset](https://www.thegreenwebfoundation.org/green-web-datasets/): Shows which of the top million domains from HTTPArchive run on green power. 
