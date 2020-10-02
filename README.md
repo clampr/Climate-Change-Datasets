@@ -64,4 +64,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
  
 * [CAIT Indonesia Climate Data Explorer (PINDAI)](https://datasets.wri.org/dataset/cait-indonesia-climate-data-explorer-pindai-data) The Indonesia Climate Data Explorer (PINDAI), an open online platform featuring Indonesian national and provincial level climate policy information and data, including historical and projected emissions, climate actions and development plans.
 
+* [Temperatures of India](https://www.kaggle.com/venky73/temperatures-of-india) This dataset consists of average temperatures of all places of INDIA from 1901 - 2017. The temperature values are recorded in CELCIUS.
 
