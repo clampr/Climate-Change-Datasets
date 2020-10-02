@@ -60,4 +60,4 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
 
-* [Temperatures of India](https://www.kaggle.com/venky73/temperatures-of-india) This dataset consists of temperatures of INDIA from 1901 - 2017. The temperature values are recorded in CELCIUS.
+* [Temperatures of India](https://www.kaggle.com/venky73/temperatures-of-india) This dataset consists of average temperatures of all places of INDIA from 1901 - 2017. The temperature values are recorded in CELCIUS.
