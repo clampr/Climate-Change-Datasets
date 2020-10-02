@@ -60,4 +60,10 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
 
+* [Latvian Climate Change Analysis Tool](https://www4.meteo.lv/klimatariks/en/) The Climate Change Analysis Tool allows you to explore the current and the projected future climate in Latvia in the form of maps and graphs. Apart from viewing online, the data can also be downloaded.
+ 
+* [CAIT Indonesia Climate Data Explorer (PINDAI)](https://datasets.wri.org/dataset/cait-indonesia-climate-data-explorer-pindai-data) The Indonesia Climate Data Explorer (PINDAI), an open online platform featuring Indonesian national and provincial level climate policy information and data, including historical and projected emissions, climate actions and development plans.
+
+* [Temperatures of India](https://www.kaggle.com/venky73/temperatures-of-india) This dataset consists of average temperatures of all places of INDIA from 1901 - 2017. The temperature values are recorded in CELCIUS.
+
 * [CO2 and GHG emission data](https://www.kaggle.com/srikantsahu/co2-and-ghg-emission-data) Dataset for emission data of Green House Gases (in tonnes) of different countries from year 1750 - 2019
