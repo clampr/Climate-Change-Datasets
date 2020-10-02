@@ -59,3 +59,5 @@ This dataset contains an Year wise Record of flood damage in India! It might hel
 * [The World Bank created the Climate Change Knowledge Portal to solve a need](https://climateknowledgeportal.worldbank.org/) The World Bank created the Climate Change Knowledge Portal to solve a need
 
 * [Datasets on Climate Change Adaptation](https://www.adaptation-undp.org/resources/datasets/datasets-climate-change-adaptation) Dataset for African climatic condition by UNDP
+
+* [CO2 and GHG emission data](https://www.kaggle.com/srikantsahu/co2-and-ghg-emission-data) Dataset for emission data of Green House Gases (in tonnes) of different countries from year 1750 - 2019
